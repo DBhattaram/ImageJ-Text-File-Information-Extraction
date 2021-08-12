@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Bhattaram
+    given-names: Dhruv
+    orcid: "https://orcid.org/0000-0002-1002-5506"
+cff-version: "1.1.0"
+date-released: 2021-08-12
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/DBhattaram/ImageJ-Text-File-Information-Extraction"
+title: "ImageJ Text File Information Extraction"
+version: "1.0.0"
+...
